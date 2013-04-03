@@ -10,5 +10,5 @@ The ideas so far consist of:
 - convert JSON to RDF turtle
 - add interesting information from OpenStreetMaps_
 
-.. _ReadRDF: http://gr8c.org/realdf/
+.. _RealRDF: http://gr8c.org/realdf/
 .. _OpenStreetMaps: http://www.openstreetmap.org/
